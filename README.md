@@ -1,4 +1,4 @@
-# Router OS Mikrotik en Docker
+# CHR Router OS Mikrotik en Docker
 docker-compose Router OS | Mikrotik como contenedor en Docker
 
 Teniendo ya Docker y docker-compose en nuestro servidor, procedemos a crear la carpeta de trabajo, crear el fichero docker-compose.yml y levantar el contenedor.
