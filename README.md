@@ -10,4 +10,8 @@ En el primer acceso, debemos actualizar la contraseña.
 Vídeo en YouTube paso a paso.
 
 
-![MikroTik-logo-2021](https://github.com/JLalib/docker-mikrotik/assets/57844755/bec6083d-06c3-4cbf-9ed8-16070c702dc7)
+![Logo MikroTik](https://github.com/JLalib/docker-mikrotik/assets/57844755/bec6083d-06c3-4cbf-9ed8-16070c702dc7)
+
+![Logo Docker](https://github.com/JLalib/docker-mikrotik/assets/57844755/a47e378a-57fd-4e19-bb65-15faa5a1c209)
+
+
