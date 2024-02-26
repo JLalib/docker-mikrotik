@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  routeros:
+    image: vaerhme/routeros:latest
+    container_name: mikrotik
+    privileged: true
+    restart: unless-stopped
+    # Router OS - Mikrotik con 8 interfaces
+    entrypoint: /routeros/entrypoint_for_docker_8interfaces.sh
+    cap_add:
+      - NET_ADMIN
+    devices:
+      - /dev/net/tun
+    ports:
+      - "8291:8291"
+      - "2222:22"
+      - "23:23"
+      - "8080:80"
+      - "8728:8728"
+      - "8729:8729"
